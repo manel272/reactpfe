@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "RN WC Store",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "slug": "rn-wc-store",
+
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.woocommerce.store"
+    },
+    "android": {
+      "package": "com.woocommerce.store"
+
+    }
+  }
+}
